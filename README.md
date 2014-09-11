@@ -10,3 +10,5 @@ jQuery中文API手册
 ![jQuery中文API参考截图](http://i.imgur.com/3Q0Jq2Y.jpg)
 
 中文API手册数据来源于：http://jquery.bootcss.com/
+
+PS: Java程序员使用php，大家见谅！Orz 
