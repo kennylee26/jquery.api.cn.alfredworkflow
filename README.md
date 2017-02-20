@@ -3,6 +3,8 @@ jquery.api.cn.alfredworkflow
 
 jQuery中文API手册
 
+# 新版本 见 https://github.com/kennylee26/alfred-jquery-api-cn
+
 默认查询关键字为jq
 
 例子参考如下:
